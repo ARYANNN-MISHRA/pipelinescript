@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        EMAIL_RECIPIENTS = 'team@example.com'
+        EMAIL_RECIPIENTS = 'aryannn.mishra.2005@gmail.com'
     }
 
     stages {
